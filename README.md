@@ -1,5 +1,8 @@
 中文版在英文版之后。
+
 The Chinese version of Readme comes after the English version.
+
+---
 
 # Hybrid Intelligence Toolkit (HIT)
 
@@ -39,9 +42,7 @@ TypeScript provides specialized integrations for each supported platform:
 For support or inquiries:
 - Open an issue
 
----
-
-**Keywords:**
+## Keywords
 - TypeScript Framework
 - AI Simulation
 - Background Zone AI
@@ -57,6 +58,8 @@ For support or inquiries:
 - Godot Engine
 - Open Source
 - AI Framework
+
+---
 
 # 混合智能工具包（HIT）
 
@@ -96,9 +99,7 @@ TypeScript 为每个支持的平台提供专门的集成方案：
 如需支持或咨询：
 - 提交 issue
 
----
-
-**关键词：**
+## 关键词
 - TypeScript 框架
 - AI 模拟
 - 幕后区 AI
