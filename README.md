@@ -6,6 +6,12 @@ The Chinese version of Readme comes after the English version.
 
 # Hybrid Intelligence Toolkit (HIT)
 
+## Repository status
+
+This checkout currently tracks only this design document, `LICENSE` and `.gitignore`. The framework and platform integrations described below are design goals, not an implementation available to install or run. There is no package manifest, source tree or build entrypoint in this revision.
+
+当前 checkout 仅含设计说明、许可证与忽略规则。以下能力是设计目标，不代表已实现的 TypeScript 框架或平台插件，本轮不补造代码，也不为设计资料安装工具链。
+
 ## Introduction
 
 The Hybrid Intelligence Toolkit (HIT) is a sophisticated TypeScript framework designed for simulating individual AI agents across multiple platforms including web applications, Unity, Unreal Engine, and Godot. What sets HIT apart is its unique approach to AI agent management across three distinct zones:
